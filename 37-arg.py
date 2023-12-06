@@ -1,0 +1,5 @@
+print("Hello {0} ,your balance is {1:9.3f}".format("Adam",230.2346))
+print("Hi, my name is {0} , my salary is:{1:8.2f}".format("Tushar",60000.575))
+print("{0},{1:10.3f},{2},{3:11.4f}".format("Good",256.2001,"Morning",5000.50002))
+print("Hello {name}, your balance is {blc:9.3f}".format(name="Adam",blc=230.2346))
+print("Hello {0}, your balance is {blc}.".format("Adam",blc=230.2346))

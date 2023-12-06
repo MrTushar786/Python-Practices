@@ -1,0 +1,5 @@
+a=(1,2,3)
+b=(4,5,6)
+c=(a,b)
+print("Tuples with nested tuples :",c)
+print("Tuple in -2 :",c[-2])

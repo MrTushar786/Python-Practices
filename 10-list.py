@@ -1,0 +1,2 @@
+empty = []
+print(type(empty))
